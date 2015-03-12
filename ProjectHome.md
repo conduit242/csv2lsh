@@ -1,0 +1,1 @@
+This tool creates locality sensitive hashes (LSH) from numeric CSV from STDIN. It supports random projections using either unit normal vectors or random hypercubic corner (+1/-1) vectors, outputting to STDOUT.
